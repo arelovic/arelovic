@@ -1,4 +1,4 @@
-<h2 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2 align="center">Hi Everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <p align="center">
   <a href="https://discord.com/users/212553306407436288" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/GNGFrauder" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
@@ -18,11 +18,4 @@
 <img align="center" alt="Node.JS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="center" alt="MongoDB" width="35px" src="https://img.icons8.com/color/452/mongodb.png" />
 <img align="center" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-</p>
-
-<br />
-<h3 align="center">GitHub Statistics</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GNGFrauder&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNGFrauder&theme=dark&count_private=true&show_icons=true&hide_border=true" />
 </p>
