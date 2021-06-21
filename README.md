@@ -19,4 +19,4 @@
 <img align="center" alt="MongoDB" width="35px" src="https://img.icons8.com/color/452/mongodb.png" />
 <img align="center" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </p>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:212553306407436288)](https://discord.com/users/:212553306407436288)
+https://lanyard-profile-readme.vercel.app/api/:212553306407436288)](https://discord.com/users/:212553306407436288
